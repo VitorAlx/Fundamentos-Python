@@ -1,4 +1,6 @@
-print("Insira o valor de Pi: ")
-pi = input()
-print("---------------------")
-print(pi)
+#exemplo de comentário de um linha só
+print("Olá mundo!")
+print("fala galeraaaaaaaaaaa")
+"""
+exemplo de comentário multilinha
+"""

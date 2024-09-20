@@ -1,0 +1,10 @@
+name = input("Informe o nome do carro: \n")
+yearLaunch = int(input("Informe o Ano de lançamento do carro: \n"))
+noteCar = float(input("Informe a nota geral do carro: \n"))
+
+print(name)
+print(type(name))
+print(yearLaunch)
+print(type(yearLaunch))
+print(noteCar)
+print(type(noteCar))
