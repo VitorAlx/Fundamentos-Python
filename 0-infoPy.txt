@@ -1,1 +1,2 @@
 control + ; = comenta tudo selecionado
+fechar programa = exit()
